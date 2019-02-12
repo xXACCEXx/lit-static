@@ -1,7 +1,7 @@
 {
   "name": "lit-static",
   "version": "2.0.1",
-  "description": "",
+  "description": "A simple base class for creating fast, lightweight web components with lit-html. But this time, it's static!",
   "main": "lit-element.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
