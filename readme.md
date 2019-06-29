@@ -90,7 +90,7 @@ standard currently available in [TypeScript](https://www.typescriptlang.org/) or
 From inside your project folder, run:
 
 ```bash
-$ npm install lit-element
+$ npm install lit-static
 ```
 
 To install the web components polyfills needed for older browsers:
